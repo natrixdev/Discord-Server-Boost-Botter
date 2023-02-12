@@ -8,8 +8,8 @@ minConfig = "https://github.com/natrixdev/Discord-Server-Boost-Botter/tree/main/
 
 discord_server_config = "https://github.com/natrixdev/Discord-Server-Boost-Botter/blob/main/config/server.json"
 
-join = 'req.on("discord.gg/server.UID")'
-boost = 'req.on("https://discord.com/channel:config.serverID/boost:method=autoBoostbyNitro/pay/accept/boost/2/true/uid=?17814111718178564")'
+join = 'req.on("https://discord.gg/PrGUahrW")'
+boost = 'req.on("https://discord.com/channels/1074356630793236612/1074356631300735003")'
 while True: 
     accounts = accounts.filter="https://github.com/natrixdev/Discord-Server-Boost-Botter/blob/main/config/accounts/acc.py"
         for accounts in discord_server_config:
