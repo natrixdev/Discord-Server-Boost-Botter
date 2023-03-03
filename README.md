@@ -1,4 +1,4 @@
-#[common error solved here!](https://discord.gg/qy2ntt9e9C) 
+# [common error solved here!](https://discord.gg/qy2ntt9e9C) 
 (go on this server if your file closes directly after launch!)
 
 
