@@ -1,7 +1,12 @@
+import os
+
+os.system("pip install tasksio")
+os.system("pip install aiohttp")
+os.system("pip install colorama")
+
 import aiohttp
 import asyncio
-import os
-os.system("pip install tasksio")
+
 import sys
 from colorama import Fore
 import tasksio
@@ -79,3 +84,4 @@ elif c == 2:
 else:
   print("[-] natrix#4526 | Invaild Option")
   exit(0)
+)
