@@ -23,4 +23,5 @@ Boost your Discord server with nitro bot accounts.
 ### Config: 
 The modules should install automatically, if you have a problem feel free to send me a dm on discord `natrix#4526`
 
-## Note you need to have working tokens in the tokens.txt file, for the boosting tool they need to have nitro boost. 
+## Note:
+<br>you need to have working tokens in the tokens.txt file, for the boosting tool they need to have nitro boost. 
