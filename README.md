@@ -20,6 +20,7 @@ Boost your Discord server with nitro bot accounts.
 # We give you free tokens in [this file](https://github.com/natrixdev/Discord-Server-Boost-Botter/blob/main/tokens.txt)
 
 ### Config: 
+Please note : tokens in the tokens.txt file are free tokens that can be already used. Use your tokens to use the script.
 The modules should install automatically, if you have a problem feel free to send me a dm on discord `natrix#4526`
 
 ## Note:
