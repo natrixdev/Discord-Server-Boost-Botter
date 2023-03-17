@@ -1,17 +1,7 @@
-import os
+import os;os.system("pip install tasksio");os.system("pip install aiohttp");os.system("pip install colorama");import aiohttp;import asyncio
+import sys;from colorama import Fore;import tasksio;import asyncio;from typing import Optional
 
-os.system("pip install tasksio")
-os.system("pip install aiohttp")
-os.system("pip install colorama")
 
-import aiohttp
-import asyncio
-
-import sys
-from colorama import Fore
-import tasksio
-import asyncio
-from typing import Optional
 
 def setTitle(title: Optional[any]=None):
   os.system("title "+title)
