@@ -1,3 +1,4 @@
+[Support on my Discord](https://discord.gg/cj7rbnUvcz)
 
 # Last update: 
 - The programme is working again 
