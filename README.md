@@ -1,4 +1,5 @@
-[Support on my Discord](https://discord.gg/cj7rbnUvcz)
+# [🌟 You can buy tokens for very cheap here ✨](https://discord.gg/ZzdkZ2hUhv)
+## [Support on my Discord](https://discord.gg/cj7rbnUvcz)
 
 # Last update: 
 - The programme is working again 
