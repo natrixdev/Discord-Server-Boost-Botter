@@ -3,7 +3,7 @@
 ## [Support on my Discord](https://discord.gg/cj7rbnUvcz)
 
 # Last update: 
-- The programme is working again 
+- The script is working again 
 - The joiner and booster are functional
 - The code has been updated 
 - And much more like more speed of execution etc.
@@ -18,11 +18,8 @@
 Boost your Discord server with nitro bot accounts. 
 
 
-# We give you free tokens in [this file](https://github.com/natrixdev/Discord-Server-Boost-Botter/blob/main/tokens.txt)
-
 ### Config: 
-Please note : tokens in the tokens.txt file are free tokens that can be already used. Use your tokens to use the script.
-The modules should install automatically, if you have a problem feel free to send me a dm on discord `natrix#4526`
+You need to have working tokens in your 1m_tokens and / or in your 3m_tokens file. 
 
 ## Note:
-<br>you need to have working tokens in the tokens.txt file, for the boosting tool they need to have nitro boost. 
+<br>Tokens need to be real and have nitro. 
