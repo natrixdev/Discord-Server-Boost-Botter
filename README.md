@@ -1,4 +1,5 @@
 # [🌟 You can buy tokens for very cheap here ✨](https://discord.gg/ZzdkZ2hUhv)
+# [ Deploy on Replit here ](https://replit.com/@Bot-designerde1/Boost-Tool)
 ## [Support on my Discord](https://discord.gg/cj7rbnUvcz)
 
 # Last update: 
