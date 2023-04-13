@@ -1,6 +1,6 @@
-# [🌟 You can buy tokens for very cheap here ✨](https://discord.gg/ZzdkZ2hUhv)
+# [🌟 You can buy tokens for very cheap here ✨](https://discord.gg/HbKCpcTUBt)
 # [ Deploy on Replit here ](https://replit.com/@Bot-designerde1/Boost-Tool)
-## [Support on my Discord](https://discord.gg/cj7rbnUvcz)
+## [Support on my Discord](https://discord.gg/HbKCpcTUBt)
 
 # Last update: 
 - The script is working again 
