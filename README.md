@@ -1,4 +1,4 @@
-# [🌟 You can buy tokens for very cheap here ✨](https://discord.gg/HbKCpcTUBt)
+# [🌟 Add the Boost Bot on your server ✨](https://discord.com/api/oauth2/authorize?client_id=1091655161258201149&permissions=8&scope=applications.commands%20bot)
 # [ Deploy on Replit here ](https://replit.com/@Bot-designerde1/Boost-Tool)
 ## [Support on my Discord](https://discord.gg/HbKCpcTUBt)
 
