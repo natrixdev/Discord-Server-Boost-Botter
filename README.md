@@ -7,7 +7,7 @@
 - The joiner and booster are functional
 - The code has been updated 
 - And much more like more speed of execution etc.
-# [--------------------------------------------](https://github.com/natrixdev/Discord-Server-Boost-Botter/)
+---
 
 
 | Star                                     | Fork                                     |
@@ -23,3 +23,6 @@ You need to have working tokens in your 1m_tokens and / or in your 3m_tokens fil
 
 ## Note:
 <br>Tokens need to be real and have nitro. 
+
+## `WARNING: Using a this is against Discord's TOS, It's not my fault if you get a ban when someone reports you`
+
