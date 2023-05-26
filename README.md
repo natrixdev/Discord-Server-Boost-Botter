@@ -1,6 +1,6 @@
 
 # [🌟 Deploy on Replit here 🌟](https://replit.com/@Bot-designerde1/Boost-Tool)
-## [Support on my Discord](https://discord.gg/HbKCpcTUBt)
+## [Support on my Discord](https://discord.gg/jYhBKSFM6q)
 
 # Last update: 
 - The script is working again 
