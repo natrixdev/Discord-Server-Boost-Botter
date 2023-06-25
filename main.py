@@ -20,7 +20,7 @@ class Fore:
     UNDERLINE = '\033[4m'
     RESET  = '\033[0m'
     
-os.system(f"title boost tool by discord.gg/9cloud by Sag3ata#0001")    
+os.system(f"title boost tool by natrixxxxx")    
 fingerprints = json.load(open("fingerprints.json", encoding="utf-8"))
 
 
